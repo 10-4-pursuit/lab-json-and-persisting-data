@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Marielle",
+    "species": "fish",
+    "origin": "Bahrain"
+  },
+  {
+    "name": "Katherine",
+    "species": "horse",
+    "origin": "Switzerland"
+  },
+  {
+    "name": "Isaias",
+    "species": "lion",
+    "origin": "New Caledonia"
+  },
+  {
+    "name": "Fernando",
+    "species": "horse",
+    "origin": "Equatorial Guinea"
+  },
+  {
+    "name": "Camille",
+    "species": "cat",
+    "origin": "Bermuda"
+  },
+  {
+    "name": "Ambrose",
+    "species": "cat",
+    "origin": "Anguilla"
+  },
+  {
+    "name": "Joany",
+    "species": "rabbit",
+    "origin": "Saint Pierre and Miquelon"
+  },
+  {
+    "name": "Noe",
+    "species": "crocodilia",
+    "origin": "Moldova"
+  },
+  {
+    "name": "Chyna",
+    "species": "snake",
+    "origin": "Venezuela"
+  },
+  {
+    "name": "Madie",
+    "species": "cat",
+    "origin": "Algeria"
+  },
+  {
+    "name": "Edmund",
+    "species": "horse",
+    "origin": "Uruguay"
+  },
+  {
+    "name": "Robert",
+    "species": "horse",
+    "origin": "Colombia"
+  },
+  {
+    "name": "Ali",
+    "species": "horse",
+    "origin": "Anguilla"
+  },
+  {
+    "name": "Magali",
+    "species": "bird",
+    "origin": "Maldives"
+  },
+  {
+    "name": "Jewel",
+    "species": "cow",
+    "origin": "Djibouti"
+  }
+]
