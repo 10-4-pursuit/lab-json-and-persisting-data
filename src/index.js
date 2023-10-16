@@ -14,12 +14,12 @@ function getAllStores() {
     return stores;
 };
 
-// Reading a single Halloween Store
+// Reading a single Store
 function getSingleStore(index) {
     return stores[index];
 };
 
-// Updating a Halloween Store
+// Updating a Store
 function updateStore(index, data) {
     stores[index] = {
       ...stores[index],
@@ -28,7 +28,7 @@ function updateStore(index, data) {
     return stores[index];
 };
 
-// Delete a Halloween Store
+// Delete a Store
 function deleteStore(index) {
     stores.splice(index, 1);
 };
