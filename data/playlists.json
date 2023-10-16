@@ -1,0 +1,338 @@
+[
+  {
+    "id": "4fda2063-6a7b-4e9f-b27a-831172c7ec4c",
+    "name": "Midland",
+    "songs": [
+      {
+        "title": "Please Mr Postman",
+        "artist": "Florence Spencer",
+        "duration": "02:13"
+      },
+      {
+        "title": "I Swear",
+        "artist": "Sam Wilkinson",
+        "duration": "04:54"
+      },
+      {
+        "title": "Gonna Make You Sweat (Everybody Dance Now)",
+        "artist": "Dr. Kathleen Carter III",
+        "duration": "03:25"
+      },
+      {
+        "title": "Let's Stay Together",
+        "artist": "Vera Cruickshank",
+        "duration": "04:27"
+      },
+      {
+        "title": "You're the One That I Want",
+        "artist": "Gladys Walsh",
+        "duration": "04:50"
+      },
+      {
+        "title": "Battle of New Orleans",
+        "artist": "Dana Pfannerstill",
+        "duration": "04:56"
+      },
+      {
+        "title": "Vaya Con Dios (may God Be With You)",
+        "artist": "Andre Barton",
+        "duration": "03:04"
+      },
+      {
+        "title": "The Great Pretender",
+        "artist": "Freda Shanahan",
+        "duration": "02:53"
+      },
+      {
+        "title": "Slow Poke",
+        "artist": "Bernadette Gerhold",
+        "duration": "04:03"
+      },
+      {
+        "title": "When Doves Cry",
+        "artist": "Bonnie Jerde",
+        "duration": "02:47"
+      }
+    ]
+  },
+  {
+    "id": "df764726-5c5a-4c31-9435-b4ffbd9ab97e",
+    "name": "Wauwatosa",
+    "songs": [
+      {
+        "title": "Up Around the Bend",
+        "artist": "Christie Schamberger",
+        "duration": "02:13"
+      },
+      {
+        "title": "I Don't Want to Miss a Thing",
+        "artist": "Carlton Herman",
+        "duration": "02:57"
+      },
+      {
+        "title": "The First Time Ever I Saw Your Face",
+        "artist": "Courtney Kreiger",
+        "duration": "04:05"
+      },
+      {
+        "title": "God Bless the Child",
+        "artist": "Barbara Haag",
+        "duration": "03:51"
+      },
+      {
+        "title": "Good Times",
+        "artist": "Mrs. Jackie Hilpert",
+        "duration": "03:12"
+      },
+      {
+        "title": "Shake You Down",
+        "artist": "Alan Lindgren",
+        "duration": "03:40"
+      },
+      {
+        "title": "One More Try",
+        "artist": "Jacob Heller V",
+        "duration": "04:39"
+      },
+      {
+        "title": "Colors of the Wind",
+        "artist": "Monica Nitzsche IV",
+        "duration": "04:55"
+      },
+      {
+        "title": "Superstition",
+        "artist": "Erika Conroy",
+        "duration": "02:34"
+      },
+      {
+        "title": "Chattanooga Choo Choo",
+        "artist": "Gregg Spencer",
+        "duration": "03:02"
+      }
+    ]
+  },
+  {
+    "id": "a3e55b24-8ad4-4627-8f37-4b25a6e7be5a",
+    "name": "Noblesville",
+    "songs": [
+      {
+        "title": "Tighten Up",
+        "artist": "Troy Ziemann",
+        "duration": "03:03"
+      },
+      {
+        "title": "We Are the Champions",
+        "artist": "Johnathan O'Connell",
+        "duration": "04:34"
+      },
+      {
+        "title": "Shop Around",
+        "artist": "Eugene Haag",
+        "duration": "03:46"
+      },
+      {
+        "title": "Maggie May",
+        "artist": "Vicky Rempel",
+        "duration": "02:48"
+      },
+      {
+        "title": "Begin the Beguine",
+        "artist": "Brooke Keebler",
+        "duration": "04:38"
+      },
+      {
+        "title": "All Shook Up",
+        "artist": "Guadalupe Hirthe",
+        "duration": "04:55"
+      },
+      {
+        "title": "Down Hearted Blues",
+        "artist": "Marty Schuster",
+        "duration": "02:12"
+      },
+      {
+        "title": "If I Didn't Care",
+        "artist": "Victoria Goodwin",
+        "duration": "02:38"
+      },
+      {
+        "title": "Cherish",
+        "artist": "Georgia Von",
+        "duration": "03:49"
+      },
+      {
+        "title": "Love Shack",
+        "artist": "Claudia Oberbrunner",
+        "duration": "04:02"
+      }
+    ]
+  },
+  {
+    "id": "664b310b-00d4-4bb0-959f-41ab36cf0c5a",
+    "name": "East Orange",
+    "songs": [
+      {
+        "title": "9 to 5",
+        "artist": "Gerard Hintz",
+        "duration": "04:34"
+      },
+      {
+        "title": "I'll Be There",
+        "artist": "Cecil Frami",
+        "duration": "03:25"
+      },
+      {
+        "title": "Indian Reservation (The Lament Of The Cherokee Reservation Indian)",
+        "artist": "Pat Hilll",
+        "duration": "02:36"
+      },
+      {
+        "title": "We Didn't Start the Fire",
+        "artist": "Ebony Batz",
+        "duration": "04:44"
+      },
+      {
+        "title": "Dizzy",
+        "artist": "Alyssa Daugherty",
+        "duration": "03:40"
+      },
+      {
+        "title": "Feel Like Making Love",
+        "artist": "Katrina Brakus",
+        "duration": "03:25"
+      },
+      {
+        "title": "Ballad of the Green Berets",
+        "artist": "Danny Lebsack",
+        "duration": "02:15"
+      },
+      {
+        "title": "Viva La Vida",
+        "artist": "Homer Terry",
+        "duration": "03:58"
+      },
+      {
+        "title": "Soldier Boy",
+        "artist": "Oscar Bruen",
+        "duration": "04:10"
+      },
+      {
+        "title": "Sweet Dreams (Are Made of This)",
+        "artist": "Mr. Beth Terry",
+        "duration": "04:55"
+      }
+    ]
+  },
+  {
+    "id": "60e9f939-ca67-4b2a-a90d-595bf1144a92",
+    "name": "Jurupa Valley",
+    "songs": [
+      {
+        "title": "You Make Me Feel Like Dancing",
+        "artist": "Ricardo Lind",
+        "duration": "03:07"
+      },
+      {
+        "title": "Livin' On a Prayer",
+        "artist": "Flora Larson",
+        "duration": "03:42"
+      },
+      {
+        "title": "Let's Get it On",
+        "artist": "Lindsay Flatley",
+        "duration": "03:14"
+      },
+      {
+        "title": "YMCA",
+        "artist": "Alicia Nolan",
+        "duration": "02:39"
+      },
+      {
+        "title": "Blue Suede Shoes",
+        "artist": "Joy Denesik",
+        "duration": "02:47"
+      },
+      {
+        "title": "Keep On Loving You",
+        "artist": "Byron McKenzie",
+        "duration": "03:25"
+      },
+      {
+        "title": "Tequila",
+        "artist": "Traci Schuster",
+        "duration": "02:09"
+      },
+      {
+        "title": "Stayin' Alive",
+        "artist": "Randolph Corkery",
+        "duration": "02:15"
+      },
+      {
+        "title": "Wild Thing",
+        "artist": "Eloise Labadie",
+        "duration": "03:34"
+      },
+      {
+        "title": "Proud Mary",
+        "artist": "Tommie Balistreri",
+        "duration": "03:40"
+      }
+    ]
+  },
+  {
+    "id": "4627add9-007f-4e93-bbe2-9803fded8d1b",
+    "name": "Winston-Salem",
+    "songs": [
+      {
+        "title": "West End Girls",
+        "artist": "Nathan Schuppe",
+        "duration": "03:09"
+      },
+      {
+        "title": "Blurred Lines",
+        "artist": "Alexandra Gislason MD",
+        "duration": "02:22"
+      },
+      {
+        "title": "The Tracks of My Tears",
+        "artist": "Grant Considine",
+        "duration": "03:27"
+      },
+      {
+        "title": "Cry",
+        "artist": "Byron Grady",
+        "duration": "02:12"
+      },
+      {
+        "title": "You Make Me Feel Like Dancing",
+        "artist": "Mr. Franklin O'Reilly",
+        "duration": "04:22"
+      },
+      {
+        "title": "Rock the Boat",
+        "artist": "Rick Howell",
+        "duration": "04:20"
+      },
+      {
+        "title": "Again",
+        "artist": "Marion Carroll",
+        "duration": "04:58"
+      },
+      {
+        "title": "As Time Goes By",
+        "artist": "Peggy Fay",
+        "duration": "02:11"
+      },
+      {
+        "title": "So Much in Love",
+        "artist": "Drew Schuster IV",
+        "duration": "02:01"
+      },
+      {
+        "title": "Ole Buttermilk Sky",
+        "artist": "Mildred Murphy",
+        "duration": "02:01"
+      }
+    ]
+  }
+]
