@@ -12,7 +12,7 @@ function run() {
         writeJSONFile("./data", "messages.json", messages)
         inform(`New message added to the JSON file.`)
     } else if (process.argv[2] === 'create-multiple') {
-        if (process.arv[3]) {
+        if (process.argv[3]) {
             const numberOfMessages = parseInt(process.argv[3], 10)
             const newMessages = randomMessageFactory(numberOfMessages)
             messages = messages.concat(newMessages)
