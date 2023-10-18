@@ -1,23 +1,31 @@
-const faker = require('faker');
+const { randomMessageFactory, createRandomMessage } = require("./messageGenerator.js")
+const { readJSONFile, writeJSONFile } = require("./helper.js")
 
+const inform = console.log
 
-function createRandomMessage() {
-  const id = Date.now();
+function run() {
+    let messages = readJSONFile("./data", "messages.json")
 
-  const hackerName = `${faker.hacker.adjective()} ${faker.hacker.abbreviation()} ${faker.hacker.abbreviation()}`;
+    if (process.argv[2] === 'create') {
+        const newMessage = createRandomMessage()
+        messages.push(newMessage) 
+        writeJSONFile("./data", "messages.json", messages)
+        inform(`New message added to the JSON file.`)
+    } else if (process.argv[2] === 'create-multiple') {
+        if (process.arv[3]) {
+            const numberOfMessages = parseInt(process.argv[3], 10)
+            const newMessages = randomMessageFactory(numberOfMessages)
+            messages = messages.concat(newMessages)
+            inform(`${numberOfMessages} new messages added to the JSON file.`)
+        } else {
+            inform(`Please specify the number of messages to create`)
+        }
 
-  const messageTitle = `Help with ${faker.hacker.adjective()} ${faker.hacker.abbreviation()} on ${faker.git.branch()}`;
-  
-  const isResolved = faker.random.boolean();
+    } else {
+        inform('Invalid command. Usage: npm run create | npm run create-multiple <number>')
+    }
 
-  const message = {
-    id,
-    hackerName,
-    messageTitle,
-    isResolved
-  };
-
-  return message;
 }
 
-console.log(createRandomMessage());
+
+run()

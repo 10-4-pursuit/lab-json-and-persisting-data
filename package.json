@@ -4,8 +4,12 @@
   "description": "You will build an app that generates a fake data set for a new app with the npm package `faker-js@7`.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "create": "node app.js create",
+    "create-multiple": "node app.js create-multiple",
     "test": "jest"
-  },
+  }
+  ,
   "keywords": [],
   "author": "erimed33",
   "license": "ISC",
