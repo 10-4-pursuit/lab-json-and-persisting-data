@@ -1,41 +1,38 @@
 const { faker } = require("@faker-js/faker");
 
 function createRandomMovies() {
-    const movies = {
-      _id: faker.datatype.uuid(),
-      movie_title: faker.music.songName(),
-      director: faker.name.fullName(),
-      release_year: faker.date.birthdate({
-        min: 1945,
-        max: 2024,
-        mode: 'year'
+  // generates fake movie data with just the movie title, director, and release year.
+  const movies = {
+    _id: faker.datatype.uuid(),
+    movie_title: faker.music.songName(),
+    director: faker.name.fullName(),
+    release_year: faker.date.between({
+      from: '01-01-1945',
+      to: '01-01-2024',
+    } ),
+    
 
-      }
-        )
-     
-    //   description: faker.commerce.productDescription(),
-    //   brand: faker.company.name(),
-    //   price: faker.commerce.price(10, 200, 2, "$"),
-    //   currency: "USD",
-    //   inStock: faker.datatype.boolean(),
-    //   attributes: {
-    //     material: faker.commerce.productMaterial(),
-    //     color: faker.vehicle.color(),
-    //   },
-    };
-    return movies;
+  };
+  return movies;
+}
+
+//generates fake movie data, the amount based on which argument is passed in the number's parameter. This is for the user. 
+function randomMovieFactory(number) {
+  const movies = [];
+
+  if (!number){
+    return `please enter the number of movies you would like to generate!`
   }
 
-  function randomMovieFactory(number) {
-    const movies = [];
-    for (let i = 0; i < number; i++) {
-      movies.push(createRandomMovies());
-    }
-    return movies;
+  if (isNaN(number)){
+    return `please enter a number if you want to generate random movie titles`
   }
-  
-  
+
+  for (let i = 0; i < number; i++) {
+    movies.push(createRandomMovies());
+  }
+  return movies;
+}
 
 
-  module.exports = { createRandomMovies, randomMovieFactory };
- 
+module.exports = { createRandomMovies, randomMovieFactory };
