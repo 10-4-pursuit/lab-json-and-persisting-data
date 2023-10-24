@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "imageId": "9e7503b7-9aa8-48da-aa24-dfcfff38f0fa",
+    "name": "iure voluptate",
+    "url": "https://loremflickr.com/640/480/city",
+    "tags": [
+      "cyan",
+      "gold",
+      "moral"
+    ],
+    "uploadDate": "2023-06-26T13:04:01.206Z"
+  },
+  {
+    "id": 1,
+    "imageId": "ad9664de-5af1-402a-a3f7-df90e34f9426",
+    "name": "sit soluta",
+    "url": "https://loremflickr.com/640/480/abstract",
+    "tags": [
+      "itchy",
+      "Nissan",
+      "astride"
+    ],
+    "uploadDate": "2023-05-28T10:05:47.415Z"
+  },
+  {
+    "id": 2,
+    "imageId": "837ac25d-539d-4fc9-a2b9-73bb2450f48c",
+    "name": "minus ullam",
+    "url": "https://loremflickr.com/640/480/cats",
+    "tags": [
+      "database",
+      "meh",
+      "white"
+    ],
+    "uploadDate": "2023-06-26T11:31:42.479Z"
+  },
+  {
+    "id": 3,
+    "imageId": "4aef8c21-9385-4f5b-ac90-c051f2b0a339",
+    "name": "error reprehenderit",
+    "url": "https://loremflickr.com/640/480/fashion",
+    "tags": [
+      "Neither",
+      "HDD",
+      "Kia"
+    ],
+    "uploadDate": "2023-04-02T15:09:09.892Z"
+  },
+  {
+    "id": 4,
+    "imageId": "f93e180b-03fd-46cd-8583-79bb31bc0d15",
+    "name": "autem cupiditate",
+    "url": "https://loremflickr.com/640/480/people",
+    "tags": [
+      "National",
+      "hardware",
+      "Hybrid"
+    ],
+    "uploadDate": "2022-10-26T11:56:36.604Z"
+  },
+  {
+    "id": 5,
+    "imageId": "90b67752-5d86-4fb7-9dcc-d6f7d773d749",
+    "name": "tenetur quas",
+    "url": "https://loremflickr.com/640/480/nature",
+    "tags": [
+      "City",
+      "Bicycle",
+      "Bedfordshire"
+    ],
+    "uploadDate": "2023-07-27T02:41:17.965Z"
+  },
+  {
+    "id": 6,
+    "imageId": "8510bc68-e338-4f7a-88f0-fc1a46f68787",
+    "name": "similique omnis",
+    "url": "https://loremflickr.com/640/480/city",
+    "tags": [
+      "Associate",
+      "Hatchback",
+      "eek"
+    ],
+    "uploadDate": "2023-03-07T18:55:30.201Z"
+  },
+  {
+    "id": 7,
+    "imageId": "f2024bd0-bdc1-463b-861a-2ad97a9bf473",
+    "name": "eveniet autem",
+    "url": "https://loremflickr.com/640/480/business",
+    "tags": [
+      "dedicated",
+      "orchid",
+      "plum"
+    ],
+    "uploadDate": "2023-08-03T23:58:19.150Z"
+  },
+  {
+    "id": 8,
+    "imageId": "62ddd8b8-cc70-4ac2-b6da-fcf6a21c0b6e",
+    "name": "tempora doloribus",
+    "url": "https://loremflickr.com/640/480/business",
+    "tags": [
+      "recusandae",
+      "Account",
+      "schemas"
+    ],
+    "uploadDate": "2023-08-07T01:12:18.849Z"
+  },
+  {
+    "id": 9,
+    "imageId": "0d37f9aa-7767-4530-81f5-9f8c5f459e43",
+    "name": "blanditiis exercitationem",
+    "url": "https://loremflickr.com/640/480/nature",
+    "tags": [
+      "Group",
+      "Rock",
+      "azure"
+    ],
+    "uploadDate": "2023-02-25T01:03:08.678Z"
+  },
+  {
+    "id": 10,
+    "imageId": "7dc722aa-2a0d-438d-b146-708ca5d23fb0",
+    "name": "in neque",
+    "url": "https://loremflickr.com/640/480/city",
+    "tags": [
+      "man",
+      "Southeast",
+      "Bicycle"
+    ],
+    "uploadDate": "2023-07-25T01:47:39.162Z"
+  }
+]

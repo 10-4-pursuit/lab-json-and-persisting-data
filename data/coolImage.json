@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "imageId": "4286b4b0-c515-41aa-9c2f-b02095cacac5",
+    "imageName": "vitae veritatis",
+    "imageUrl": "https://loremflickr.com/640/480/business",
+    "tags": [
+      "Langosh",
+      "payment",
+      "explicit"
+    ],
+    "uploadDate": "2023-01-11T18:08:26.382Z"
+  },
+  {
+    "id": 1,
+    "imageId": "ddc5a8b2-0a5e-4471-8bb6-49cb6f86618e",
+    "imageName": "magni quae",
+    "imageUrl": "https://loremflickr.com/640/480/city",
+    "tags": [
+      "Silver",
+      "repudiandae",
+      "Soul"
+    ],
+    "uploadDate": "2023-07-31T23:56:52.720Z"
+  },
+  {
+    "id": 2,
+    "imageId": "70dfee8d-e3fb-4d31-926a-1e72b75591b9",
+    "imageName": "nemo dolore",
+    "imageUrl": "https://loremflickr.com/640/480/nightlife",
+    "tags": [
+      "architecto",
+      "reproduce",
+      "Mazda"
+    ],
+    "uploadDate": "2023-03-02T20:08:20.610Z"
+  },
+  {
+    "id": 3,
+    "imageId": "d66ed1b7-4301-47f0-9429-6d373465670a",
+    "imageName": "a doloribus",
+    "imageUrl": "https://loremflickr.com/640/480/fashion",
+    "tags": [
+      "plum",
+      "Senior",
+      "female"
+    ],
+    "uploadDate": "2023-06-22T12:30:46.468Z"
+  },
+  {
+    "id": 4,
+    "imageId": "a00bd603-8348-4a66-801b-230dcb549279",
+    "imageName": "reprehenderit explicabo",
+    "imageUrl": "https://loremflickr.com/640/480/abstract",
+    "tags": [
+      "amidst",
+      "terribly",
+      "Table"
+    ],
+    "uploadDate": "2022-11-18T13:55:44.069Z"
+  },
+  {
+    "id": 5,
+    "imageId": "ae0c3c72-2138-49c3-805c-325d48be48bb",
+    "imageName": "quo sint",
+    "imageUrl": "https://loremflickr.com/640/480/nature",
+    "tags": [
+      "blue",
+      "ha",
+      "female"
+    ],
+    "uploadDate": "2022-11-13T10:01:48.513Z"
+  },
+  {
+    "id": 6,
+    "imageId": "6f65d425-b772-4ab5-9029-f4a377e74e44",
+    "imageName": "temporibus quas",
+    "imageUrl": "https://loremflickr.com/640/480/city",
+    "tags": [
+      "Tampa",
+      "Rubber",
+      "anti"
+    ],
+    "uploadDate": "2023-09-08T15:03:28.728Z"
+  },
+  {
+    "id": 7,
+    "imageId": "0de896f5-e687-4de1-9141-5f16bd3d99ad",
+    "imageName": "fugiat pariatur",
+    "imageUrl": "https://loremflickr.com/640/480/abstract",
+    "tags": [
+      "delayed",
+      "Triathlon/Time",
+      "Electric"
+    ],
+    "uploadDate": "2022-11-18T18:05:01.527Z"
+  },
+  {
+    "id": 8,
+    "imageId": "54c8e2d9-8200-439f-90d4-8429154dc3ed",
+    "imageName": "at corrupti",
+    "imageUrl": "https://loremflickr.com/640/480/technics",
+    "tags": [
+      "Assistant",
+      "katal",
+      "overriding"
+    ],
+    "uploadDate": "2022-10-30T04:27:30.033Z"
+  },
+  {
+    "id": 9,
+    "imageId": "84c7d32e-c1a6-471c-b788-b8cedacbf108",
+    "imageName": "quaerat soluta",
+    "imageUrl": "https://loremflickr.com/640/480/abstract",
+    "tags": [
+      "Sports",
+      "Metal",
+      "deliver"
+    ],
+    "uploadDate": "2023-08-22T10:55:17.567Z"
+  },
+  {
+    "id": 10,
+    "imageId": "3249178f-5c30-48cf-b472-a8012a01cc84",
+    "imageName": "perferendis sapiente",
+    "imageUrl": "https://loremflickr.com/640/480/abstract",
+    "tags": [
+      "second",
+      "Producer",
+      "female"
+    ],
+    "uploadDate": "2023-09-15T16:23:21.082Z"
+  }
+]
