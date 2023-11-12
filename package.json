@@ -1,0 +1,16 @@
+{
+  "name": "json-data-lab",
+  "version": "1.0.0",
+  "description": "You will build an app that generates a fake data set for a new app with the npm package `faker-js@7`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Yah-neen",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "jest": "^29.7.0"
+  }
+}

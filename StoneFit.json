@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "xha84e6tpok",
+      "firstName": "Carmel",
+      "lastName": "Laurent",
+      "alterEgo": "MightyMan",
+      "age": "28",
+      "weight": "400",
+      "height": "6",
+      "stepsToday": "7",
+      "sleepHours": "5",
+      "waterIntake": "16",
+      "dailyGoals": {
+        "stepsGoal": 12000,
+        "sleepGoal": 8,
+        "waterGoal": 64
+      }
+    },
+    {
+      "id": "zha84e6tpok",
+      "firstName": "Jenny",
+      "lastName": "James",
+      "alterEgo": "SlimGirl",
+      "age": "30",
+      "weight": "256",
+      "height": "6.8",
+      "stepsToday": "20",
+      "sleepHours": "4",
+      "waterIntake": "8",
+      "dailyGoals": {
+        "stepsGoal": 10000,
+        "sleepGoal": 8,
+        "waterGoal": 64
+      }
+    }
+  ]
+}
